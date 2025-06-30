@@ -52,12 +52,6 @@ Você pode baixar todos os arquivos deste projeto clicando no botão abaixo:
 
 ---
 
-## 🌐 Link para o Site (opcional com GitHub Pages)
-
-Se você publicar com GitHub Pages, o site ficará disponível em:  
-**https://MatheusBrahim.github.io/Surpresinha/**
-
-
 ---
 
 ## 🏆 Requisitos Atendidos
