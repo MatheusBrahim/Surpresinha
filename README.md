@@ -36,7 +36,7 @@ O programa:
 
 ---
 
-## 📸 Capitura de Tela
+## 📸 Captura de Tela
 
 ![Tela do Programa](tela.png)
 
