@@ -1,6 +1,6 @@
-# 🎲 Exercício Surpresinha - Mega-Sena
+# 🎲 Exercício Surpresinha
 
-Projeto prático desenvolvido como parte das atividades escolares da **Etec Adolpho Berezin - 1i3**.
+Projeto prático desenvolvido como parte das atividades escolares PC-1 da **Etec Adolpho Berezin - 1I3**.
 
 **Autores:**  
 - Matheus Brahim Almeida  
@@ -31,16 +31,8 @@ O programa:
 ## 🧠 Tecnologias Utilizadas
 
 - C#
-- Lógica de programação (JavaScript)
-- Git e GitHub (versionamento e publicação)
-
----
-
-## 📸 Imagens do Programa
-
-> Captura de tela do programa em execução:
-
-![Captura de Tela](imagens/print1.png)
+- Lógica de programação
+- Git e GitHub
 
 ---
 
@@ -49,8 +41,6 @@ O programa:
 Você pode baixar todos os arquivos deste projeto clicando no botão abaixo:
 
 👉 [Baixar o projeto em .zip](download/surpresinha.zip)
-
----
 
 ---
 
