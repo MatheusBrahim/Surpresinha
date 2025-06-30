@@ -36,11 +36,23 @@ O programa:
 
 ---
 
+## 📸 Capitura de Tela
+
+![Tela do Programa](tela.png)
+
+---
+
 ## 📁 Download do Projeto
 
 Você pode baixar todos os arquivos deste projeto clicando no botão abaixo:
 
-👉 [Baixar o projeto em .zip](download/surpresinha.zip)
+👉 [Baixar o projeto em .zip](dist/Surpresinha.zip)
+
+Execute utilizando o comando:
+
+```
+--- dotnet Surpresinha.dll
+```
 
 ---
 
